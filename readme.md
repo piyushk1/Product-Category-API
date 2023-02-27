@@ -31,20 +31,20 @@ The API should now be running at http://localhost:3000.
 
 **Products**
 
-    `GET /products `- Retrieve all products
-  `  GET /products/:productId` - Retrieve a product by ID
-    `GET /productsWithCategories `- Retrieve all products with 	their corresponding category objects
-   ` POST /products `- Create a new product
-    `PUT /products/:productId` - Update a product by ID
-    `DELETE /products/:productId` - Delete a product by ID
+    `GET /products `- Retrieve all products  
+  `  GET /products/:productId` - Retrieve a product by ID  
+    `GET /productsWithCategories `- Retrieve all products with 	their corresponding category objects  
+   ` POST /products `- Create a new product  
+    `PUT /products/:productId` - Update a product by ID  
+    `DELETE /products/:productId` - Delete a product by ID  
 
 
 
 **Categories**
 
-   ` GET /categories` - Retrieve all categories
-    `GET /categories/:categoryId` - Retrieve a category by ID
-   ` DELETE /categories/:categoryId` - Delete a category by ID
+   ` GET /categories` - Retrieve all categories  
+    `GET /categories/:categoryId` - Retrieve a category by ID  
+   ` DELETE /categories/:categoryId` - Delete a category by ID  
 
 
 ##For API Testing on POSTMAN
