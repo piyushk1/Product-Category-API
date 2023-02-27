@@ -1,0 +1,69 @@
+[{
+  "productId": "P004",
+  "productName": "Product 4",
+  "qtyPerUnit": 20,
+  "unitPrice": 15,
+  "unitInStock": 200,
+  "discontinued": false,
+  "categoryId": "C003"
+},{
+  "productId": "P005",
+  "productName": "Product 5",
+  "qtyPerUnit": 8,
+  "unitPrice": 40,
+  "unitInStock": 120,
+  "discontinued": true,
+  "categoryId": "C002"
+},{
+  "productId": "P006",
+  "productName": "Product 6",
+  "qtyPerUnit": 12,
+  "unitPrice": 35,
+  "unitInStock": 150,
+  "discontinued": false,
+  "categoryId": "C001"
+},{
+  "productId": "P007",
+  "productName": "Product 7",
+  "qtyPerUnit": 25,
+  "unitPrice": 10,
+  "unitInStock": 300,
+  "discontinued": false,
+  "categoryId": "C003"
+},{
+  "productId": "P008",
+  "productName": "Product 8",
+  "qtyPerUnit": 18,
+  "unitPrice": 22,
+  "unitInStock": 90,
+  "discontinued": true,
+  "categoryId": "C002"
+},{
+  "productId": "P009",
+  "productName": "Product 9",
+  "qtyPerUnit": 6,
+  "unitPrice": 50,
+  "unitInStock": 60,
+  "discontinued": false,
+  "categoryId": "C003"
+},{
+  "productId": "P010",
+  "productName": "Product 10",
+  "qtyPerUnit": 14,
+  "unitPrice": 18,
+  "unitInStock": 180,
+  "discontinued": false,
+  "categoryId": "C001"
+},
+{
+  "productId": "P011",
+  "productName": "Product 11",
+  "qtyPerUnit": 20,
+  "unitPrice": 40,
+  "unitInStock": 200,
+  "discontinued": true,
+  "categoryId": "C003"
+}
+]
+
+
